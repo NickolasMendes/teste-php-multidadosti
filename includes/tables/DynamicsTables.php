@@ -1,0 +1,63 @@
+<table class="table table-hover" id="ClientTable">
+    <thead>
+        <tr>
+            <th>
+                Nome
+            </th>
+            <th>
+                CPF
+            </th>
+            <th>
+                Endereço
+            </th>
+            <th>
+                Telefone
+            </th>
+            <th>
+                Email
+            </th>
+        </tr>
+    </thead>	
+</table>
+
+<table class="table table-hover" id="SuppliersTable">
+    <thead>
+        <tr>
+            <th>
+                Nome
+            </th>
+            <th>
+                CPF
+            </th>
+            <th>
+                Cidade
+            </th>
+            <th>
+                Email
+            </th>
+        </tr>
+    </thead>
+</table>								
+
+<table class="table table-hover" id="UsersTable">
+<thead>
+    <tr>
+        <th>
+            Nome
+        </th>
+        <th>
+            CPF
+        </th>
+        <th>
+            Endereço
+        </th>
+        <th>
+            Telefone
+        </th>
+        </th>
+        <th>
+            Usuário
+        </th>
+    </tr>
+    </thead>
+</table>
